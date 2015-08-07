@@ -1,4 +1,6 @@
-# boot-leak
+# boot-pod-leak
+
+Running Oracle Java8.
 
 Reproduce by running:
 ```
