@@ -4,9 +4,9 @@ Running Oracle Java8.
 
 Reproduce by running:
 ```
-boot test-env watch test -n fact.core-test
+boot watch leak
 ```
 Trigger the watch with
 ```
-touch test/fact/core_test.clj
+touch src/fact/core.clj
 ```
